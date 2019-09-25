@@ -1,0 +1,44 @@
+body{
+    font-weight: 700;
+}
+#article1 {
+    font-weight: 800;
+}
+.item-block {
+
+}
+img {
+    width: 400px;
+    height: 200px;
+}
+span {
+    color: red;
+}
+div {
+    color: rebeccapurple;
+}
+div span {
+    color: burlywood;
+}
+div div span {
+    color: royalblue
+}
+div div.content1 span {
+    color: aquamarine
+}
+a {
+    font-size: 20px;
+}
+div.darck  {
+    color:black
+
+}
+div.green  {
+    color: rgb(0, 255, 13)
+
+}
+div.rede  {
+    color: red
+
+}
+
